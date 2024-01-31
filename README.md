@@ -6,7 +6,34 @@ I have experience in full stack development and enjoy UI/UX design and developme
 
 
 ## 🛠️ CompSci courses completed at university
-- 
+First Year
+- Programming Fundamentals (Intro to programming using Java)
+- Problem Solving
+- System Analysis
+- Data Management and Security (MySQL)
+- Object Oriented Design and Programming (Java)
+- Networks and Comminications
+- Introduction to Web Technology
+- IT Project Management
+
+Second Year
+- Database Systems
+- Advanced Programming (C++)
+- Mobile Application Development (Java/Android Studio)
+- Mathematics for Computer Science
+- Algorithms and Data Structures (C/C++)
+- Game Engine Essentials (C#/Unity)
+- Multicore and GPU Programming (C++/OpenCL)
+- Human Computer Interaction
+
+Third Year
+- Capstone Project (Java/TypeScript/JS/Python)
+- Mobile Multimedia (Java/Android Studio)
+- Fundamental Programming with Python
+- Software Development Methodologies
+- Interactive Computer Graphics (C++/OpenGL)
+- Ethical Hacking (Python/Kali Linux)
+
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
