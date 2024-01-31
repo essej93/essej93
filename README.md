@@ -4,7 +4,7 @@
 I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
 
 
-## 🛠️ Courses undertaken at university
+## 🛠️ CompSci courses completed at university
 - 
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
