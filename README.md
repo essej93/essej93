@@ -30,7 +30,7 @@ I have experience in full stack development and enjoy UI/UX design and developme
 - Capstone Project (Java/TypeScript/JS/Python)
 - Mobile Multimedia (Java/Android Studio)
 - Fundamental Programming with Python
-- Software Development Methodologies ([Project Here] (https://github.com/damonDevelops/Tradie-Connect))
+- Software Development Methodologies ([Project Here](https://github.com/damonDevelops/Tradie-Connect))
 - Interactive Computer Graphics (C++/OpenGL)
 - Ethical Hacking (Python/Kali Linux)
 
