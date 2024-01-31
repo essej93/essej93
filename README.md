@@ -6,7 +6,7 @@ I have experience in full stack development and enjoy UI/UX design and developme
 
 
 ## 🛠️ CompSci courses completed at university
-First Year
+** First Year
 - Programming Fundamentals (Intro to programming using Java)
 - Problem Solving
 - System Analysis
@@ -16,7 +16,7 @@ First Year
 - Introduction to Web Technology
 - IT Project Management
 
-Second Year
+** Second Year
 - Database Systems
 - Advanced Programming (C++)
 - Mobile Application Development (Java/Android Studio)
@@ -26,11 +26,11 @@ Second Year
 - Multicore and GPU Programming (C++/OpenCL)
 - Human Computer Interaction
 
-Third Year
+** Third Year
 - Capstone Project (Java/TypeScript/JS/Python)
 - Mobile Multimedia (Java/Android Studio)
 - Fundamental Programming with Python
-- Software Development Methodologies
+- Software Development Methodologies ([Project Here] (https://github.com/damonDevelops/Tradie-Connect))
 - Interactive Computer Graphics (C++/OpenGL)
 - Ethical Hacking (Python/Kali Linux)
 
