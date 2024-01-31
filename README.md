@@ -1,8 +1,6 @@
 # Hi there 👋 #
 ## 📜 About Me ##
-📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development.
-
-I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
+📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development. I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
 
 
 ## 🛠️ CompSci courses completed at university
