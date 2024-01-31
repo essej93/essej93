@@ -17,7 +17,7 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Introduction to Web Technology
 - IT Project Management
 
-** Second Year
+** Second Year **
 - Database Systems
 - Advanced Programming (C++)
 - Mobile Application Development (Java/Android Studio)
@@ -27,7 +27,7 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Multicore and GPU Programming (C++/OpenCL)
 - Human Computer Interaction
 
-** Third Year
+** Third Year **
 - Capstone Project (Java/TypeScript/JS/Python)
 - Mobile Multimedia (Java/Android Studio)
 - Fundamental Programming with Python
