@@ -36,9 +36,12 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Ethical Hacking (Python/Kali Linux)
 
 ## Skills
+
 ### Languages
 ### Back-End Development
 ### Front-End Development
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ### IDE's
 ### Design
 ### Testing
