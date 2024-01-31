@@ -1,4 +1,4 @@
-### Hi there 👋 ###
+###Hi there 👋###
 ## 📜 About Me ##
 📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development.
 
@@ -7,7 +7,7 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 
 
 ## 🛠️ CompSci courses completed at university
-** First Year
+**First Year**
 - Programming Fundamentals (Intro to programming using Java)
 - Problem Solving
 - System Analysis
@@ -17,7 +17,7 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Introduction to Web Technology
 - IT Project Management
 
-** Second Year **
+**Second Year**
 - Database Systems
 - Advanced Programming (C++)
 - Mobile Application Development (Java/Android Studio)
