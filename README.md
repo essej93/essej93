@@ -1,4 +1,4 @@
-###Hi there 👋###
+# Hi there 👋 #
 ## 📜 About Me ##
 📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development.
 
@@ -27,7 +27,7 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Multicore and GPU Programming (C++/OpenCL)
 - Human Computer Interaction
 
-** Third Year **
+**Third Year**
 - Capstone Project (Java/TypeScript/JS/Python)
 - Mobile Multimedia (Java/Android Studio)
 - Fundamental Programming with Python
@@ -36,12 +36,12 @@ I also take pride in my leadership skills as i stepped up as the Project Manager
 - Ethical Hacking (Python/Kali Linux)
 
 ## Skills
-# Languages
-# Back-End Development
-# Front-End Development
-# IDE's
-# Design
-# Testing
+### Languages
+### Back-End Development
+### Front-End Development
+### IDE's
+### Design
+### Testing
 
 ## 🖥️ Workspace Setup
 
