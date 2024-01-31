@@ -54,8 +54,13 @@ I have experience in full stack development and enjoy UI/UX design and developme
 
 ### PC - ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![GPU](https://img.shields.io/badge/NVIDIA-RTX3080-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![CPU](https://img.shields.io/badge/Intel-Core_i7_13700K-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ##  Other Interests
-
+- 🎮 Gaming
+- 🎵 Music
+- 🎸 Guitar
+- 🛹 Skateboarding
 ## 🏆 Achievements
+- 📝 3x Deans List at University of Wollongong
+- 🏆 2nd Place at the SCIT Tradeshow (University of Wollongong)
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
