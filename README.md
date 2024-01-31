@@ -1,5 +1,11 @@
 ### Hi there 👋
+## 📜 About Me
+📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development.
+I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
 
+
+## 🛠️ Courses undertaken at university
+- 
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
