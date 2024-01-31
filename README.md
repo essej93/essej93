@@ -3,6 +3,7 @@
 📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development.
 
 I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
+I also take pride in my leadership skills as i stepped up as the Project Manager/Team Leader in all major uni projects with all of them being a huge success.
 
 
 ## 🛠️ CompSci courses completed at university
@@ -34,6 +35,19 @@ I have experience in full stack development and enjoy UI/UX design and developme
 - Interactive Computer Graphics (C++/OpenGL)
 - Ethical Hacking (Python/Kali Linux)
 
+## Skills
+# Languages
+# Back-End Development
+# Front-End Development
+# IDE's
+# Design
+# Testing
+
+## 🖥️ Workspace Setup
+
+##  Other Interests
+
+## 🏆 Achievements
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
