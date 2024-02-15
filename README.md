@@ -3,7 +3,7 @@
 📖 - I've recently completed my Bachelor of Computer Science at the University of Wollongong, with a major in Game and Mobile Development. I have experience in full stack development and enjoy UI/UX design and development however, i mostly love doing backend development.
 
 
-## 🛠️ CompSci courses completed at university
+## 🛠️ CompSci subjects completed at University
 **First Year**
 - Programming Fundamentals (Intro to programming using Java)
 - Problem Solving
@@ -32,7 +32,7 @@
 - Interactive Computer Graphics (C++/OpenGL)
 - Ethical Hacking (Python/Kali Linux)
 
-  Note: Some of the individual stuff that i've worked on throughout the years can be found as public repo's i've made otherwise, anything else i've worked on within a team is linked above.
+Note: Some of the individual stuff that i've worked on throughout the years can be found as public repo's i've made otherwise, anything else i've worked on within a team is linked above.
 
 ## Skills
 
