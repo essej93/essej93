@@ -25,7 +25,7 @@
 - Human Computer Interaction
 
 **Third Year**
-- Capstone Project (Java/TypeScript/JS/Python) - Core product developed to process ID card images and extract the text data for use, using Machine Learning.
+- Capstone Project (Java/TypeScript/JS/Python) - Core product developed to process ID card images and extract the text data for use, using Machine Learning. Project unavailable publically as we don't have permission to open source it.
 - Mobile Multimedia (Java/Android Studio)
 - Fundamental Programming with Python
 - Software Development Methodologies ([Project Here](https://github.com/damonDevelops/Tradie-Connect))
