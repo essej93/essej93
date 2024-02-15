@@ -20,7 +20,7 @@
 - Mobile Application Development (Java/Android Studio)
 - Mathematics for Computer Science
 - Algorithms and Data Structures (C/C++)
-- Game Engine Essentials (C#/Unity)
+- Game Engine Essentials (C#/Unity) ([Project Here](https://github.com/essej93/Project-Ethereal---Unity))
 - Multicore and GPU Programming (C++/OpenCL)
 - Human Computer Interaction
 
@@ -31,6 +31,8 @@
 - Software Development Methodologies ([Project Here](https://github.com/damonDevelops/Tradie-Connect))
 - Interactive Computer Graphics (C++/OpenGL)
 - Ethical Hacking (Python/Kali Linux)
+
+  Note: Some of the individual stuff that i've worked on throughout the years can be found as public repo's i've made otherwise, anything else i've worked on within a team is linked above.
 
 ## Skills
 
