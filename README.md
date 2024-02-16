@@ -64,7 +64,7 @@ Note: Some of the individual stuff that i've worked on throughout the years can 
 
 
 
-Note: All my projects are currently under private repo's however, i will be re-uploading them under public repo's after ensuring all sensitive user data has been removed.
+Note: All my projects are currently under private repo's however, i will be re-uploading them under public repo's after ensuring all sensitive info has been removed.
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
