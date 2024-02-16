@@ -59,7 +59,7 @@ Note: Some of the individual stuff that i've worked on throughout the years can 
 - 🎸 Guitar
 - 🛹 Skateboarding
 ## 🏆 Achievements
-- 📝 3x Deans List at University of Wollongong
+- 📝 2x Deans List at University of Wollongong
 - 🏆 2nd Place at the SCIT Tradeshow (University of Wollongong)
 
 
