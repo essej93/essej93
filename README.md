@@ -32,7 +32,6 @@
 - Interactive Computer Graphics (C++/OpenGL) - ([3D Animation](https://github.com/essej93/3D-Animation)), ([Truck Draw/Move](https://github.com/essej93/TruckProject))
 - Ethical Hacking (Python/Kali Linux)
 
-Note: Some of the individual stuff that i've worked on throughout the years can be found as public repo's i've made otherwise, anything else i've worked on within a team is linked above.
 
 ## Skills
 
