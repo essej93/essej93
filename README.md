@@ -5,31 +5,31 @@
 
 ## 🛠️ CompSci subjects completed at University
 **First Year**
-- Programming Fundamentals (Intro to programming using Java)
+- Programming Fundamentals (Intro to programming using Java) 
 - Problem Solving
 - System Analysis
 - Data Management and Security (MySQL)
-- Object Oriented Design and Programming (Java)
+- Object Oriented Design and Programming (Java) - ([PC Part Shop](https://github.com/essej93/PC-Part-Shop)) 
 - Networks and Comminications
 - Introduction to Web Technology
 - IT Project Management
 
 **Second Year**
-- Database Systems
-- Advanced Programming (C++)
-- Mobile Application Development (Java/Android Studio)
+- Database Systems 
+- Advanced Programming (C++) - ([Election Simulator](https://github.com/essej93/ElectionSimulator))  
+- Mobile Application Development (Java/Android Studio) - ([Quiz App](https://github.com/essej93/SelectiveHighSchoolPreparationTest)), ([Entertainment Booking App](https://github.com/essej93/MyEntertainment)) 
 - Mathematics for Computer Science
-- Algorithms and Data Structures (C/C++)
-- Game Engine Essentials (C#/Unity) ([Project Here](https://github.com/essej93/Project-Ethereal---Unity))
+- Algorithms and Data Structures (C/C++) - ([Bank Teller Queue Simulation](https://github.com/essej93/BankTellerSimulation)), ([Shortest&Longest Path](https://github.com/essej93/Shortest---Longest-Path))  
+- Game Engine Essentials (C#/Unity) - ([Project Here](https://github.com/essej93/Project-Ethereal---Unity))
 - Multicore and GPU Programming (C++/OpenCL)
 - Human Computer Interaction
 
 **Third Year**
-- Capstone Project (Java/TypeScript/JS/Python) - Core product developed to process ID card images and extract the text data for use, using Machine Learning. Project unavailable publically as I don't have permission to make it public.
-- Mobile Multimedia (Java/Android Studio)
+- Capstone Project (Java/TypeScript/JS/Python) - ([Image Processing](https://github.com/essej93/IDentify)) or ([API and Frontend](https://github.com/essej93/IDentifyCapstone))
+- Mobile Multimedia (Java/Android Studio) - ([Data Compression](https://github.com/essej93/dataReduction)), ([RGB Manipulation](https://github.com/essej93/color3Display)), ([Bayer Filter](https://github.com/essej93/366BayerFilter)), ([Luminnance](https://github.com/essej93/imEnhance)) 
 - Fundamental Programming with Python
-- Software Development Methodologies ([Project Here](https://github.com/damonDevelops/Tradie-Connect))
-- Interactive Computer Graphics (C++/OpenGL)
+- Software Development Methodologies - ([Project Here](https://github.com/damonDevelops/Tradie-Connect))
+- Interactive Computer Graphics (C++/OpenGL) - ([3D Animation](https://github.com/essej93/3D-Animation)), ([Truck Draw/Move](https://github.com/essej93/TruckProject))
 - Ethical Hacking (Python/Kali Linux)
 
 Note: Some of the individual stuff that i've worked on throughout the years can be found as public repo's i've made otherwise, anything else i've worked on within a team is linked above.
