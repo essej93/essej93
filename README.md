@@ -59,12 +59,9 @@ Note: Some of the individual stuff that i've worked on throughout the years can 
 - 🎸 Guitar
 - 🛹 Skateboarding
 ## 🏆 Achievements
-- 📝 2x Deans List at University of Wollongong
-- 🏆 2nd Place at the SCIT Tradeshow (University of Wollongong)
+- 📝 3x Deans Merit, top 5% of students in faculty at University of Wollongong
+- 🏆 2nd Place at the School of Computing and Information Technology Tradeshow Competition (University of Wollongong)
 
-
-
-Note: All my projects are currently under private repo's however, i will be re-uploading them under public repo's after ensuring all sensitive info has been removed.
 <!--
 **essej93/essej93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
